@@ -1,3 +1,5 @@
+name: sparta-payment
+
 services:
   mysql:
     image: mysql:8
